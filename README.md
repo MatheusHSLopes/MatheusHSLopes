@@ -16,7 +16,7 @@
 - 🐍 Python (praticando listas, loops, arquivos e pandas)
 - 📊 Estruturação e consulta de dados
 - 📁 JSON e manipulação de arquivos
-- 🐧 Linux (uso diário com terminal)
+- 🐧 Linux
 
 ### 🔸 Front-end (básico)
 
@@ -26,7 +26,6 @@
 
 - Criando páginas simples com HTML e CSS
 - Aprendendo lógica de interatividade com JavaScript
-- Entendendo estrutura de sites e boas práticas de UI
 
 ---
 
