@@ -1,4 +1,4 @@
-# 👨‍💻 Matheus Lopes | Explorador de dados
+# 👨‍💻 Matheus Lopes | Entusiasta por Dados
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Estagiário de Suporte Técnico    
