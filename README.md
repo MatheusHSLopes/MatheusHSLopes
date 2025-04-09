@@ -48,6 +48,6 @@
 
 ## 💬 Contato
 
-📧 mathz.lopes@gmail.com  
+📧 lopesmatheushs@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/seu-link-aqui/)  
-🔗 [GitHub](https://github.com/MathzLopes)
+🔗 [GitHub](https://github.com/MatheusHSLopes)
